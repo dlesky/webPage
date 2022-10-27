@@ -22,7 +22,7 @@ title: Committing Code
 email: dan.lesky.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A Javascript Blog 
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/webPage" # the subpath of your site, e.g. /blog
 url: "https://dlesky.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  dlesky
